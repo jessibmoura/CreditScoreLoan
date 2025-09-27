@@ -47,3 +47,21 @@ A personal loan is a type of installment credit issued to a borrower by a lender
 - Student Loan:
 An education loan is a sum of money borrowed to finance a post-secondary education or higher education-related expenses. Education loans are intended to cover the cost of tuition, books and supplies, and living expenses while the borrower is in the process of pursuing a degree.
 Payments are often deferred while students are in college and, depending on the lender, for an additional six-month period after earning a degree. This deferment period is also referred to as a "grace period." [What Is an Education Loan?](https://www.investopedia.com/terms/e/education-loan.asp)
+
+**Changed credit limit**
+To find the percentage change in your credit card limit, you must compare your new credit limit to your old credit limit. The formula is: (New Limit - Old Limit) / Old Limit * 100. For example, if your limit changed from $2,000 to $2,500, the calculation would be ($2,500 - $2,000) / $2,000 * 100 = 25% increase. A lower credit utilization ratio (using less of your available credit) is generally better for your credit score.
+
+**Credit card inquiries**
+A credit inquiry is, in the simplest terms, a posting on your credit report indicating when an entity – such as a lender - checks your credit history. Think of your credit report like a resume that shows all your financial experiences in one place or a report card that grades you in various domains, such as mortgages, credit card payments, loans, and more. You might get a credit inquiry if:
+You’re applying for a loan – Lenders use your credit score to determine whether to approve loans (like mortgages, car loans, or personal loans). A lower score can lead to higher interest rates or even loan denials.
+You’re applying for an apartment or house – Whether you’re renting or buying, many landlords check your credit history when considering your application.
+You’re applying for a job – Some employers may perform credit checks, especially for positions that require handling finances. [How to Deal with Unexpected Credit Inquiries](https://www.myfico.com/credit-education/credit-reports/manage-credit-inquiries#:~:text=your%20credit%20report.-,What%20are%20credit%20inquiries?,positions%20that%20require%20handling%20finances.)
+
+**Utilization ratio of credit card**
+A credit card utilization ratio is the amount of credit you're using compared to the total credit limit you have available. It's calculated by dividing your total credit card balances by your total credit limits and multiplying by 100 to get a percentage. A lower utilization ratio is better, with keeping it below 30% generally recommended for a healthy credit score.
+
+**Age of credit history of the person**
+The "age" of a person's credit history refers to the length of time they have been using credit, which is a key factor in calculating their credit score and is generally considered a positive attribute. It's determined by metrics like the age of their oldest and newest credit accounts, as well as the average age of all their active accounts.
+
+**Monthly EMI payment**
+A monthly EMI payment is an Equated Monthly Instalment, a fixed sum of money a borrower pays to a lender each month to pay off a loan, such as a home or car loan. Each EMI covers both a portion of the principal amount borrowed and the interest charged by the lender, ensuring the loan is fully repaid over a predetermined period. 
